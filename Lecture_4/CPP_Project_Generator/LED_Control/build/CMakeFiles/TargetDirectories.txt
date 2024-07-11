@@ -1,0 +1,3 @@
+/home/mohamed-osama/Embedded_Linux/Tasks/Lecture_4/CPP_Project_Generator/LED_Control/build/CMakeFiles/LED_Control.dir
+/home/mohamed-osama/Embedded_Linux/Tasks/Lecture_4/CPP_Project_Generator/LED_Control/build/CMakeFiles/edit_cache.dir
+/home/mohamed-osama/Embedded_Linux/Tasks/Lecture_4/CPP_Project_Generator/LED_Control/build/CMakeFiles/rebuild_cache.dir
