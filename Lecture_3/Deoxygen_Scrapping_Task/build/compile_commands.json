@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/home/mohamed-osama/Embedded_Linux/Tasks/Lecture_3/Deoxygen_Scrapping_Task/build",
+  "command": "/usr/bin/c++   -g -o CMakeFiles/HelloWorld.dir/led.cpp.o -c /home/mohamed-osama/Embedded_Linux/Tasks/Lecture_3/Deoxygen_Scrapping_Task/led.cpp",
+  "file": "/home/mohamed-osama/Embedded_Linux/Tasks/Lecture_3/Deoxygen_Scrapping_Task/led.cpp",
+  "output": "CMakeFiles/HelloWorld.dir/led.cpp.o"
+},
+{
+  "directory": "/home/mohamed-osama/Embedded_Linux/Tasks/Lecture_3/Deoxygen_Scrapping_Task/build",
+  "command": "/usr/bin/c++   -g -o CMakeFiles/HelloWorld.dir/main.cpp.o -c /home/mohamed-osama/Embedded_Linux/Tasks/Lecture_3/Deoxygen_Scrapping_Task/main.cpp",
+  "file": "/home/mohamed-osama/Embedded_Linux/Tasks/Lecture_3/Deoxygen_Scrapping_Task/main.cpp",
+  "output": "CMakeFiles/HelloWorld.dir/main.cpp.o"
+}
+]

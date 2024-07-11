@@ -1,0 +1,2 @@
+OUTPUT_DIRECTORY       = /home/mohamed-osama/Embedded_Linux/Tasks/Lecture_3/Deoxygen_Scrapping_Task/build/doc_doxygen/
+INPUT                  = /home/mohamed-osama/Embedded_Linux/Tasks/Lecture_3/Deoxygen_Scrapping_Task/  /home/mohamed-osama/Embedded_Linux/Tasks/Lecture_3/Deoxygen_Scrapping_Task/docs

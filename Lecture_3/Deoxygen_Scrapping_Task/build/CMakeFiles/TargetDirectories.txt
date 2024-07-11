@@ -1,0 +1,4 @@
+/home/mohamed-osama/Embedded_Linux/Tasks/Lecture_3/Deoxygen_Scrapping_Task/build/CMakeFiles/HelloWorld.dir
+/home/mohamed-osama/Embedded_Linux/Tasks/Lecture_3/Deoxygen_Scrapping_Task/build/CMakeFiles/doc_doxygen.dir
+/home/mohamed-osama/Embedded_Linux/Tasks/Lecture_3/Deoxygen_Scrapping_Task/build/CMakeFiles/edit_cache.dir
+/home/mohamed-osama/Embedded_Linux/Tasks/Lecture_3/Deoxygen_Scrapping_Task/build/CMakeFiles/rebuild_cache.dir
