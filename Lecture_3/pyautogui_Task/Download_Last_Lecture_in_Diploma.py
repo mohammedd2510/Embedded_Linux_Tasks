@@ -6,10 +6,11 @@ webbrowser.open_new_tab("https://drive.google.com/drive/folders/1bWC1vrs4NwLqyS5
 sleep(2)
 while True:    
     try:
-        pyautogui.locateOnScreen('img1.png')
+        loc=pyautogui.locateOnScreen('img1.png')
     except:
         print('image not found')
-    break
+    else:
+        break
 pyautogui.click(466,364)
 pyautogui.click()
 sleep(1)
