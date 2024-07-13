@@ -274,8 +274,8 @@ class Alexa:
         playsound('audio.mp3')
         os.remove("audio.mp3")
     def __search_words_in_string(self,words_list,str):
-        text_found  = [word for word in words_list if word in str]
-        return (len(text_found)!=0)
+        Text_found  = [word for word in words_list if word in str]
+        return (len(Text_found)!=0)
     
     def Respond_to_Speech(self,text):
         if (self.__search_words_in_string(["جديده","ترمنال","ترمينال"],text)):
