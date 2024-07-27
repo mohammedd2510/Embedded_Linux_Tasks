@@ -1,0 +1,3 @@
+/home/mohamed-osama/Embedded_Linux/Tasks/C++/Lecture 2/Contact_Book_Project/build/CMakeFiles/Contact_Book.dir
+/home/mohamed-osama/Embedded_Linux/Tasks/C++/Lecture 2/Contact_Book_Project/build/CMakeFiles/edit_cache.dir
+/home/mohamed-osama/Embedded_Linux/Tasks/C++/Lecture 2/Contact_Book_Project/build/CMakeFiles/rebuild_cache.dir
