@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/mytarget.dir/main.cpp.o "_deps/backward-build/CMakeFiles/backward_object.dir/backward.cpp.o" -o mytarget  /usr/lib/x86_64-linux-gnu/libdw.so /usr/lib/x86_64-linux-gnu/libelf.so /usr/lib/x86_64-linux-gnu/libpthread.a /usr/lib/x86_64-linux-gnu/libz.so /usr/lib/x86_64-linux-gnu/liblzma.so /usr/lib/x86_64-linux-gnu/libzstd.so 

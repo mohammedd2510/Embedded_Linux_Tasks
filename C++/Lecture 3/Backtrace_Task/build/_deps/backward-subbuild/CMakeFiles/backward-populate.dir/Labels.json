@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/mohamed-osama/Embedded_Linux/Tasks/C++/Lecture 3/Backtrace_Task/build/_deps/backward-subbuild/CMakeFiles/backward-populate"
+		},
+		{
+			"file" : "/home/mohamed-osama/Embedded_Linux/Tasks/C++/Lecture 3/Backtrace_Task/build/_deps/backward-subbuild/CMakeFiles/backward-populate.rule"
+		},
+		{
+			"file" : "/home/mohamed-osama/Embedded_Linux/Tasks/C++/Lecture 3/Backtrace_Task/build/_deps/backward-subbuild/CMakeFiles/backward-populate-complete.rule"
+		},
+		{
+			"file" : "/home/mohamed-osama/Embedded_Linux/Tasks/C++/Lecture 3/Backtrace_Task/build/_deps/backward-subbuild/backward-populate-prefix/src/backward-populate-stamp/backward-populate-build.rule"
+		},
+		{
+			"file" : "/home/mohamed-osama/Embedded_Linux/Tasks/C++/Lecture 3/Backtrace_Task/build/_deps/backward-subbuild/backward-populate-prefix/src/backward-populate-stamp/backward-populate-configure.rule"
+		},
+		{
+			"file" : "/home/mohamed-osama/Embedded_Linux/Tasks/C++/Lecture 3/Backtrace_Task/build/_deps/backward-subbuild/backward-populate-prefix/src/backward-populate-stamp/backward-populate-download.rule"
+		},
+		{
+			"file" : "/home/mohamed-osama/Embedded_Linux/Tasks/C++/Lecture 3/Backtrace_Task/build/_deps/backward-subbuild/backward-populate-prefix/src/backward-populate-stamp/backward-populate-install.rule"
+		},
+		{
+			"file" : "/home/mohamed-osama/Embedded_Linux/Tasks/C++/Lecture 3/Backtrace_Task/build/_deps/backward-subbuild/backward-populate-prefix/src/backward-populate-stamp/backward-populate-mkdir.rule"
+		},
+		{
+			"file" : "/home/mohamed-osama/Embedded_Linux/Tasks/C++/Lecture 3/Backtrace_Task/build/_deps/backward-subbuild/backward-populate-prefix/src/backward-populate-stamp/backward-populate-patch.rule"
+		},
+		{
+			"file" : "/home/mohamed-osama/Embedded_Linux/Tasks/C++/Lecture 3/Backtrace_Task/build/_deps/backward-subbuild/backward-populate-prefix/src/backward-populate-stamp/backward-populate-test.rule"
+		},
+		{
+			"file" : "/home/mohamed-osama/Embedded_Linux/Tasks/C++/Lecture 3/Backtrace_Task/build/_deps/backward-subbuild/backward-populate-prefix/src/backward-populate-stamp/backward-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"backward-populate"
+		],
+		"name" : "backward-populate"
+	}
+}

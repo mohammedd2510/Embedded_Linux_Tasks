@@ -1,0 +1,3 @@
+/home/mohamed-osama/Embedded_Linux/Tasks/C++/Lecture 3/Backtrace_Task/build/CMakeFiles/Backtrace.dir
+/home/mohamed-osama/Embedded_Linux/Tasks/C++/Lecture 3/Backtrace_Task/build/CMakeFiles/edit_cache.dir
+/home/mohamed-osama/Embedded_Linux/Tasks/C++/Lecture 3/Backtrace_Task/build/CMakeFiles/rebuild_cache.dir

@@ -3,23 +3,20 @@ import shutil
 from datetime import datetime
 now = datetime.now()
 date_var = now.strftime("%d/%m/%Y %H:%M:%S")
-name = input("Please Enter Your Name \n")
+name = "Mohamed Osama"
 print(f"Hello mr {name}")
 project_name = input("Enter Project Name \n")
-#1-clean
-if os.path.exists(project_name):
-    shutil.rmtree(project_name)
-    print("Folder Deleted")
 
 #2-Create Files
-os.system(f"mkdir -p {project_name}/src")
+os.chdir(f"~/Embedded_Linux/Tests/
+")
 os.system(f"mkdir -p {project_name}/build")
 os.system(f"mkdir -p {project_name}/test")
-os.system(f"touch {project_name}/src/main.cpp")
+os.system(f"touch {project_name}/main.cpp")
 os.system(f"touch {project_name}/CMakeLists.txt")
 
 #3- Update main.cpp
-with open(f"{project_name}/src/main.cpp","w")as file:
+with open(f"{project_name}/main.cpp","w")as file:
     file.write(f"""/************************************************/
 //
 //              CopyRight {name}
